@@ -1,0 +1,13 @@
+Stack Overflow este o aplicatie ce deserveste ca sursa de inspiratie la nivel global, ce se adreseaza utilizatorilor dintr-o gama
+larga de tehnologii.
+
+Functionalitati:
+-uilizatorii pot cauta solutii pentru diverse probleme, in timp ce utilizatorii logati la platforma pot veni cu solutii
+-postarile se pot vota in functie de calitatea ei
+-se pot lasa comentarii
+-poti adauga intrebari in legatura cu o problema
+-exista un filtru pentru intrebari
+-exista un buton de Products in care se pot observa mai multe servicii (de exemplu: Stack Overflow for Teams)
+-sunt disponibile tag-uri
+-se poate creea un cont
+-exista un buton de "Find a job" ce functioneaza ca un portal de cautare de job-uri
